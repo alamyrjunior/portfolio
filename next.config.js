@@ -4,7 +4,12 @@ const nextConfig = {
   output: "export",
   images: {
     unoptimized: true
-  }
+  },
+  experimental: {
+    externalDir: true
+  },
+  // Potential new config flag:
+  disableExperimentalFeaturesWarning: true
   
 
   
