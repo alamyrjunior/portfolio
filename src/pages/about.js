@@ -52,7 +52,7 @@ const about = () => {
                 Biography
               </h2>
               <p className="font-medium">
-                Hello, I&aposm Alamyr Junior, an RPA (Robotic Process Automation)
+                Hello, {`I'm`} Alamyr Junior, an RPA (Robotic Process Automation)
                 Developer with a dedication to streamlining and automating
                 business processes. With a solid 3 years of experience in the
                 realm of RPA development, I am constantly exploring cutting-edge
@@ -61,13 +61,13 @@ const about = () => {
               </p>
               <p className=" my-4 font-medium">
                 I firmly believe that RPA is not just about automating tasks;
-                it&aposs about enhancing productivity, reducing operational costs,
+                {`it's`} about enhancing productivity, reducing operational costs,
                 and improving overall business efficiency. My expertise lies in
                 designing and implementing robust automation solutions that
                 align with organizational goals and deliver tangible results.
               </p>
               <p className="my-4 font-medium">
-                Whether I&aposm crafting bots for data extraction, process
+                Whether {`I'm`} crafting bots for data extraction, process
                 automation, or system integration, I bring a commitment to
                 excellence in RPA development and a focus on creating seamless,
                 intelligent automation solutions. I thrive on the challenges of
@@ -76,7 +76,7 @@ const about = () => {
               </p>
               <p className="font-medium">
                 I am excited about the prospect of contributing my skills and
-                enthusiasm to your next automation project. Let&aposs collaborate to
+                enthusiasm to your next automation project. {`Let's`} collaborate to
                 revolutionize and elevate your business processes through the
                 power of RPA.
               </p>
